@@ -1,1 +1,1 @@
-# Stastical-Machine-Learning
+# Statistical-Machine-Learning
